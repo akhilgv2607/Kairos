@@ -4,8 +4,6 @@
 
 > *Kairos* (Greek: καιρός) — the decisive, opportune moment. The exact instant when conditions demand action.
 
-**GitHub:** https://github.com/akhilgv2607/Kairos
-
 ---
 
 ## What it does
@@ -80,7 +78,6 @@ Human SRE MTTR: ~23 minutes · **Kairos MTTR: ~8 seconds**
 - 6 accordion items: API key safety, log integration, LLM choice, multi-user, server restarts, deployment
 
 ### Nav & GitHub Link
-- GitHub icon in the navbar links to the repo for issue reports and pull requests
 - Gear icon opens LLM Settings drawer
 - Integrate button opens the log integration hub
 
@@ -270,5 +267,5 @@ FastAPI Backend
 
 ---
 
-Built by [Akhil] as a portfolio demonstration of Agentic System Engineering.  
+Built by Akhil.
 LangGraph · FastAPI · Next.js · ChromaDB · Redis · Neo4j
